@@ -10,7 +10,7 @@ This repository provides a palette of shapes that enables the use of Graffoo in 
 2. From File menu: Open Library from > URL
 3. Insert URL https://raw.githubusercontent.com/luigi-asprino/Graffoo4DrawIO/master/Graffoo.xml
 
-### Installation (Desktop Version v12.9.9)
+### Installation (Desktop Version v12.9.9 - OS X)
 
 1. Clone repository ``git clone https://github.com/luigi-asprino/Graffoo4DrawIO.git``
 2. From File menu: Open Library...
