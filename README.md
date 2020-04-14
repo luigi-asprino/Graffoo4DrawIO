@@ -4,11 +4,17 @@
 
 This repository provides a palette of shapes that enables the use of Graffoo in [draw.io](https://app.diagrams.net/).
 
-### Installation
+### Installation (Online Version)
 
 1. Create/Open a diagram in [draw.io](https://app.diagrams.net/)
 2. From File menu: Open Library from > URL
 3. Insert URL https://raw.githubusercontent.com/luigi-asprino/Graffoo4DrawIO/master/Graffoo.xml
+
+### Installation (Desktop Version v12.9.9)
+
+1. Clone repository ``git clone https://github.com/luigi-asprino/Graffoo4DrawIO.git``
+2. From File menu: Open Library...
+3. Select file in the cloned repository ``~/Graffoo4DrawIO/Graffoo.xml``
 
 ### License
 
