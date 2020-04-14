@@ -22,4 +22,4 @@ This repository provides a palette of shapes that enables the use of Graffoo in 
 
 ### Author
 
-Luigi Asprino luigi.asprino@istc.cnr.it
+[Luigi Asprino](http://luigiasprino.it) mail: luigi.asprino@istc.cnr.it
